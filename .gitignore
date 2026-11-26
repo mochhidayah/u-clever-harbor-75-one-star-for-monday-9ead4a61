@@ -1,0 +1,5 @@
+# Monday Diner — local run outputs and editor noise stay out of the repo.
+node_modules/
+output/
+*.log
+.DS_Store
